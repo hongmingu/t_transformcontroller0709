@@ -1,0 +1,1 @@
+const panSpeedRatio = 0.75;

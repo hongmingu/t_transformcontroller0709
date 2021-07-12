@@ -1,0 +1,22 @@
+PODS:
+  - draw_on (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - draw_on (from `.symlinks/plugins/draw_on/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  draw_on:
+    :path: ".symlinks/plugins/draw_on/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  draw_on: 624c5eff0b0dbbdf1f7d3e033323423f0c901087
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
